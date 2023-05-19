@@ -1,3 +1,5 @@
+<b>Hi there, I am Kunal Tyagi 👋</b>
+
 🎓  Pursuing MCA  <br/>
 🌍  I'm based in Pune Maharashtra <br/>
 ✉️  You can contact me at abhinalawade167@gmail.com.com <br/>
