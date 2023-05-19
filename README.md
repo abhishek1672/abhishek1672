@@ -1,4 +1,4 @@
-<h4><b>Hi there, I am Abhishek 👋</b></h4>
+<h2>Hi there, I am Abhishek 👋</h2>
 
 🎓  Pursuing MCA  <br/>
 🌍  I'm based in Pune Maharashtra <br/>
