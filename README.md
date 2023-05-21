@@ -8,4 +8,4 @@
 <br/>
 <br/>
 
-❣️Skills  🧑‍💻 Java J2EE JavaScript HTML5 CSS3 PHP MySQL  Python 
+❣️Skills  🧑‍💻 Java J2EE JavaScript HTML5 CSS3 PHP BootStrap MySQL  
