@@ -7,4 +7,4 @@
 🤝  I'm open to Work as Java Developer ,Full stack Developer, web developer, FrontEnd Developer<br/>
 <br/>
 
-❣️Skills  🧑‍💻 Java J2EE  React JS JavaScript HTML5 CSS3 PHP BootStrap MySQL Tomcat Server  
+❣️Skills  🧑‍💻 Java J2EE  React JS JavaScript React js  HTML5 CSS3 PHP BootStrap MySQL Tomcat Server  
